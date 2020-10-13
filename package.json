@@ -1,0 +1,26 @@
+{
+  "name": "bidbash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awebb8/bidbash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awebb8/bidbash/issues"
+  },
+  "homepage": "https://github.com/awebb8/bidbash#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql2": "^2.2.5",
+    "sequelizer": "^1.1.4"
+  }
+}
